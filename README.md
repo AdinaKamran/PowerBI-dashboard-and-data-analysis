@@ -89,8 +89,6 @@ The dataset contains 36 columns and 13,380 rows, with key attributes such as:
 
 ### Steps to Use
 1. **Clone the Repository**:
-   git clone https://github.com/yourusername/pharma-spending-analysis.git
-   cd pharma-spending-analysis
 2.	Open Power BI File:
 3.	Explore Dashboard:
 o	Use interactive slicers and visualizations to analyze spending trends and patterns.
@@ -112,7 +110,6 @@ CopyEdit
 
 Contributors
 •	Adina Kamran (2022044)
-GIK Institute of Engineering Sciences and Technology
 Faculty of Data Science
 
 References
